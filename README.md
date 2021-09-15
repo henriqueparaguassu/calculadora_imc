@@ -1,6 +1,6 @@
 # calculadora_imc
 
-My first Flutter project.
+My second Flutter project.
 
 This simple app is for calculate the body mass index (IMC in portuguese) and learn more about Flutter.
 And is my second app made with Flutter.
